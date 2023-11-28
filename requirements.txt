@@ -1,0 +1,9 @@
+pandas~=2.1.1
+numpy
+matplotlib
+Pillow
+scikit-learn
+seaborn
+keras
+tensorflow
+scikit-image
